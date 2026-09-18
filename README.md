@@ -1,6 +1,6 @@
 # BSCup Running Challenges
 
-Dashboard lari Next.js App Router, TypeScript, dan React. Desain hitam/emas terinspirasi Bridgestone Cup BP 2026. Data bawaan: 215 aktivitas dari Excel 18 September 2026.
+Dashboard lari Next.js App Router, TypeScript, dan React. Desain hitam/emas terinspirasi Bridgestone Cup BP 2026. Data bawaan: 216 aktivitas dari Excel 18 September 2026.
 
 ## Menjalankan
 
